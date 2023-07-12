@@ -1,0 +1,21 @@
+import std
+
+println("Hello, World!")
+
+let a = 1
+
+let b = array.new(10)
+let c = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+array.sort(c).foreach { println($0) }
+
+
+type MyType = (Int, Int)
+
+let d = MyType(1, 2)
+
+add = (type) {
+    return type.$0 + type.$1
+}
+
+println(add(d))

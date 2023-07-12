@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Emir Cengiz"
+	],
+	"copyright": "Copyright © 2023, Emir Cengiz",
+	"description": "Interpreter",
+	"license": "proprietary",
+	"name": "zeus"
+}
